@@ -9,7 +9,7 @@ I'm currently active in physics student at <a href="https://physics.ipb.ac.id/">
 - 📫 How to reach me: masdadan0206@gmail.com
 - ⚡ Fun fact: Enjoy reading books about the world
 
-### Tech Stack
+### Tech Skills
   <a href="#"><img align="left" alt="SQL" title="SQL" width="21px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" /></a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img align="left" alt="Excel" title="Excel" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" /></a>
 <a href="https://www.python.org/"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" /></a>
