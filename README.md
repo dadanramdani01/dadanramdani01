@@ -22,7 +22,6 @@ I'm currently active in physics student at <a href="https://physics.ipb.ac.id/">
 <p align="left">
 <a href="https://github.com/dadanramdani01">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dadanramdani01&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dadanramdani01&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
