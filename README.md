@@ -28,4 +28,4 @@ I'm currently active in physics student at <a href="https://physics.ipb.ac.id/">
 
 ### Reach me on
 - <a href="https://linkedin.com/in/dadanramdani/">LinkedIn</a>
-- @masdadan0206@gmail.com
+- masdadan0206@gmail.com
